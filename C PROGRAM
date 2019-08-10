@@ -1,1 +1,6 @@
+#INCLUDE<STUDIO.H>
+VOID MAIN()
+{
+PRINT("HELLO WORLD....!!!");
+}
 
